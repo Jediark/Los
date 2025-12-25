@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LOS: Life Operating System",
+  "description": "A comprehensive transformation platform for multi-talented individuals to manage skills, monetize talents, and grow personally through AI-powered coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
